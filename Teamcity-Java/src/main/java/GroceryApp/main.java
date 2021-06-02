@@ -15,7 +15,7 @@ public class main {
         boolean shopping = true;
 
         while(shopping) {
-            System.out.println("==================Welcome to the Grocery Shop=======================")!!!!!!!!!
+            System.out.println("==================Welcome to the Grocery Shop=======================");
             System.out.println("What do you wanna do====");
             System.out.println("1. Check the items preset in the grocery store.......");
             System.out.println("2. Check the items present in your cart.......");
